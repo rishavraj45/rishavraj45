@@ -1,5 +1,12 @@
 # 💫 About Me:
-- 🔭 Currently developing real-world applications  <br>- 🤝 Looking to contribute to open-source and collaborative projects  <br>- 🧠 Learning advanced backend concepts and system design  <br>- 💬 Ask me about data structures, algorithms, and backend logic  <br>- ⚡ I love optimizing code for performance  
+Passionate B.Tech student with strong interests in software development, problem solving, and scalable technologies. I enjoy building real-world applications, exploring system design concepts, and continuously improving through coding challenges and development projects.
+
+Development Interests:
+• Full-Stack Web Development (MERN / Next.js)
+• Backend systems, APIs, and scalable applications
+• Exploring cloud, databases, and modern web technologies
+
+I’m always open to collaborating on impactful projects, learning from experienced developers, and connecting with people passionate about technology and innovation.
 
 
 ## 🌐 Socials:
