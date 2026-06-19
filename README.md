@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:-
 Passionate B.Tech student with strong interests in software development, problem solving, and scalable technologies. I enjoy building real-world applications, exploring system design concepts, and continuously improving through coding challenges and development projects.
 
 Development Interests:
