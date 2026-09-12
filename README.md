@@ -1,24 +1,5 @@
 ## 🧑‍💻 About Me
 
-```cpp
-class rishav {
-public:
-    string role = "Full-Stack Developer";
-    
-    vector<string> interests = {
-        "Web Development",
-        "DSA & Problem Solving",
-        "Backend Development"
-    };
-
-    vector<string> learning = {
-        "System Design",
-        "Redis",
-        "Docker"
-    };
-
-    string motto = "Keep building, keep learning 🚀";
-};
 
 
 ## 🌐 Socials:
