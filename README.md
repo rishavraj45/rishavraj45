@@ -1,12 +1,24 @@
-# 💫 About Me:-
-Passionate B.Tech student with strong interests in software development, problem solving, and scalable technologies. I enjoy building real-world applications, exploring system design concepts, and continuously improving through coding challenges and development projects.
+## 🧑‍💻 About Me
 
-Development Interests:
-• Full-Stack Web Development (MERN / Next.js)
-• Backend systems, APIs, and scalable applications
-• Exploring cloud, databases, and modern web technologies
+```cpp
+class rishav {
+public:
+    string role = "Full-Stack Developer";
+    
+    vector<string> interests = {
+        "Web Development",
+        "DSA & Problem Solving",
+        "Backend Development"
+    };
 
-I’m always open to collaborating on impactful projects, learning from experienced developers, and connecting with people passionate about technology and innovation.
+    vector<string> learning = {
+        "System Design",
+        "Redis",
+        "Docker"
+    };
+
+    string motto = "Keep building, keep learning 🚀";
+};
 
 
 ## 🌐 Socials:
