@@ -1,5 +1,12 @@
 ## 🧑‍💻 About Me
 
+> B.Tech student at **IIT (BHU)** who enjoys building things and solving problems with code.
+
+💻 Full-Stack Development & Backend  
+🧠 DSA & Problem Solving  
+🌱 Currently exploring System Design, Redis & Docker
+
+> *Trying to write better code than yesterday. 🚀*
 
 
 ## 🌐 Socials:
