@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/rishavraj1003/">
-    <img src="https://leetcard.jacoblin.cool/rishavraj1003?theme=dark&ext=activity" />
+    <img src="https://leetcard.jacoblin.cool/rishavraj1003?theme=dark" />
   </a>
 </p>
 
