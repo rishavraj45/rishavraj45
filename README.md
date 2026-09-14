@@ -1,7 +1,7 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=Hey%2C+I'm+Rishav+Raj+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Trying+to+write+better+code+than+yesterday+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=Hey%2C+I'm+Rishav+Raj+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Trying+to+write+better+code+than+yesterday+%F0%9F%9A%80" />
 </p>
 
 > B.Tech student at **IIT (BHU)** who enjoys building things and solving problems with code.
